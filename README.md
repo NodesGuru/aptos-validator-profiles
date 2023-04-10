@@ -16,6 +16,6 @@
    }
 }
  ```
- - Send a pool request with your data
+ - Create a pull request with your data
 
 After that we will be able to verify your submission and approve it to be shown at the [staking portal](https://aptostake.guru/).
