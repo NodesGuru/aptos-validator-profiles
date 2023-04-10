@@ -1,5 +1,5 @@
-# AptoStake validator profiles
-Here you can add an information about your validator for the [AptoStake staking portal](https://aptostake.guru/).
+# Welcome to AptoStake validator profiles.
+If you are an operator of a dPOS staking pool in Aptos network and want your details to be shown at [AptoStake staking portal](https://aptostake.guru/), please follow instrustions below to submit your data.
 
 ### How to add your validator info:
  - Create a `.json` file with name `$YOUR_POOL_ADDRESS.json` in `mainnet` or `testnet` folder according to where you want to setup your pool
