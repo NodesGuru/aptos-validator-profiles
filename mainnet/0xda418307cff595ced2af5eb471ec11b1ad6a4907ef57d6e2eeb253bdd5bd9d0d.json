@@ -1,7 +1,7 @@
 {
    "name":"Chorus One",
    "description":"Secure Aptos and shape its future by delegating to Chorus One, a highly secure and stable validator. By delegating, you agree to the terms of service at: https://chorus.one/tos",
-   "icon":"",
+   "icon":"https://chorus.one/logo-360x360.jpg",
    "socials":{
       "website":"https://chorus.one/",
       "github":"https://github.com/ChorusOne",
