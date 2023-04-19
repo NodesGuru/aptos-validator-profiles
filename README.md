@@ -4,7 +4,7 @@ If you are an operator of a dPOS staking pool in Aptos network and want your det
 ### How to add your validator info:
  - Create a `.json` file with name `$YOUR_POOL_ADDRESS.json` in `mainnet` or `testnet` folder according to where you want to setup your pool
  - Fill it out according to the [example.json](https://github.com/NodesGuru/aptos-validator-profiles/blob/main/mainnet/example.json):
- > :warning: **If you are prefer to use aptos.names - leave the `name` field empty!**
+ > :warning: **If you prefer to use aptos.names - leave the `name` field empty!**
  ```
  {
    "name":"Nodes.Guru",
