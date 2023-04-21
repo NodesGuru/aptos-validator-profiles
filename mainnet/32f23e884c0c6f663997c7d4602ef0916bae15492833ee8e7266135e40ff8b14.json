@@ -1,0 +1,12 @@
+{
+  "name":"NodeKeeper",
+  "description":"Staking platform powered by TuDudes",
+  "icon":"https://nodekeeper.net/imgs/nk-logo.png",
+  "socials": {
+     "website":"https://nodekeeper.net/",
+     "github": "",
+     "twitter": "https://twitter.com/NodeKeeperNet",
+     "telegram": "",
+     "discord": ""
+  }
+}
