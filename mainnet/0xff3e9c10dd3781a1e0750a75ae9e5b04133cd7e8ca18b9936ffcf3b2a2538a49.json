@@ -1,12 +1,12 @@
 {
    "name":"Luganodes",
-   "description":"",
-   "icon":"",
+   "description":"Leading institutional-grade blockchain infrastructure providers.",
+   "icon":"https://terminal.luganodes.com/_next/static/media/brandLongLight.6c460b7a.svg",
    "socials":{
-      "website":"",
-      "github":"",
-      "twitter":"",
-      "telegram":"",
+      "website":"https://www.luganodes.com/",
+      "github":"https://github.com/Luganodes",
+      "twitter":"https://twitter.com/luganodes",
+      "telegram":"https://t.me/luganodes",
       "discord":""
    }
 }
