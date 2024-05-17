@@ -1,0 +1,13 @@
+{
+    "name":"SenseiNode",
+    "description":"We are a company dedicated to driving decentralization in Latin America. With over $1 Billion in TVL, we are the largest node operator in the region. Our mission is to facilitate the hosting, deployment and management of nodes in multiple jurisdictions, through a network of local hosting providers across Latin America.",
+    "icon":"https://pbs.twimg.com/profile_images/1506228596561657856/PdW4GQbW_400x400.jpg",
+    "socials": {
+       "website":"https://www.senseinode.com",
+       "github": "https://github.com/Sensei-Node",
+       "twitter": "https://x.com/senseinode",
+       "telegram": "https://t.me/senseinodechat",
+       "discord": ""
+    }
+ }
+ 
