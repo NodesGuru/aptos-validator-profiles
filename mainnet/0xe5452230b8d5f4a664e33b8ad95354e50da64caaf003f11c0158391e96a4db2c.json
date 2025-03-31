@@ -1,0 +1,12 @@
+{
+   "name":"Stakin",
+   "description":"Leading institutional-grade web3 infrastructure and non-custodial staking service provider. ISO27001 Certified and Audited.",
+   "icon":"https://stakin-data.s3.eu-west-2.amazonaws.com/icon/logo.svg",
+   "socials":{
+      "website":"https://stakin.com",
+      "github": "https://github.com/StakinOfficial",
+      "twitter":"https://x.com/StakinOfficial",
+      "telegram":"https://t.me/StakinOfficial",
+      "discord": ""
+   }
+}
